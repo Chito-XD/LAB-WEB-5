@@ -2,7 +2,7 @@
 
 Edgar Rubén Salazar Lugo A01338798
 
-# LAB-WEB-6
+# LAB-WEB-5
 
 This lab is donde to be display in a Github page. The link is: 
 
